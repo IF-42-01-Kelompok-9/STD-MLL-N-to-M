@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1673192740 source:i:\tubes\tubes\main.cpp
+	<iostream>
+	"Tubes.h"
+
+1673195720 i:\tubes\tubes\tubes.h
+	<iostream>
+
+1673195720 source:i:\tubes\tubes\tubes.cpp
+	<iostream>
+	"Tubes.h"
+
+1673688975 source:i:\tubes_std_mll_n_to_m_kelompok6\tubes\main.cpp
+	<iostream>
+	"Tubes.h"
+
+1673682949 i:\tubes_std_mll_n_to_m_kelompok6\tubes\tubes.h
+	<iostream>
+
+1673688821 source:i:\tubes_std_mll_n_to_m_kelompok6\tubes\tubes.cpp
+	<iostream>
+	"Tubes.h"
+
